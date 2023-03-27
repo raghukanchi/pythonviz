@@ -1,2 +1,2 @@
 # pythonviz
-Python Vizualation for git commands
+Python Visualization for git commands
